@@ -5,7 +5,7 @@ There are many ways to represent math formulas in text. In this answer, i’ll u
 
 Here’s an example of how it looks:
 
-![demo](/images/expp2.gif)
+![demo](/images/exp-1.png)
 
 
 You can use the `ExpressionView` composable to display a math expression. For example:
@@ -18,7 +18,7 @@ This means you can save your math formulas as text in the format shown above and
 
 Demo:
 
-![demo](/images/math_parse_demo.gif)
+![demo](/images/expp2.gif)
 
 
 **Notes:**
