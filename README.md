@@ -5,7 +5,7 @@ There are many ways to represent math formulas in text. In this answer, i’ll u
 
 Here’s an example of how it looks:
 
-![demo](/images/exp-1.png)
+![demo](/images/g1.png)
 
 
 You can use the `ExpressionView` composable to display a math expression. For example:
