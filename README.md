@@ -1,4 +1,4 @@
-This is provided as an answer to this [stackoverflow question](https://stackoverflow.com/questions/79202587/how-to-render-and-display-the-text-styling-and-mathematical-formulae-in-jetpack):
+This is provided as an answer to this [stackoverflow question](https://stackoverflow.com/a/79205838/11949116):
 
 
 There are many ways to represent math formulas in text. In this answer, i’ll use a simple, natural text format to keep it easy to parse (called AsciiMath).
